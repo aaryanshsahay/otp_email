@@ -1,4 +1,4 @@
-# otp_email
+# Otp Email
 Send otp via email and then verify it .
 <h1>What it does:</h1>
 <ul>
@@ -8,6 +8,7 @@ Send otp via email and then verify it .
 </ul>
 <hr>
 <h1>How to use:</h1>
-Enter the email id and password (enclosed in quotes) in the side.py file .
-Run the main.py file
-Done.
+<ul>
+  <li>Enter the email id and password (enclosed in quotes) in the side.py file .</li>
+  <li>Run the main.py file</li>
+</ul>
