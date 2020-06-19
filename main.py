@@ -1,7 +1,7 @@
 import smtplib
 from email.message import EmailMessage
 import random
-from otp import nums, user_email_id, user_pwd  #the file should be in the same directory
+from other import nums, user_email_id, user_pwd  #the file should be in the same directory
 
 email_input = input("Enter Email ID:")         #send the otp to this email
 otp = str(random.choice(nums))
