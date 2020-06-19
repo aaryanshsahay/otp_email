@@ -10,6 +10,6 @@ Sends otp via email and then verifies it .
 <hr>
 <h2>How to use:</h2>
 <ul>
-  <li>Enter the email id and password (enclosed in quotes) in the side.py file .</li>
+  <li>Enter the email id and password (enclosed in quotes) which will send the otp in the side.py file .</li>
   <li>Run the main.py file</li>
 </ul>
